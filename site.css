@@ -1,0 +1,99 @@
+.header {
+    margin: 0 0 40px 0;
+}
+
+.nav__upper {
+    width:fit-content;
+    margin: 0 auto;
+}
+
+.upper__left {
+    height: 25px;
+    display: inline-block;
+    margin-right: 900px;
+}
+
+.upper__right {
+    display: inline-block;
+}
+
+.sign-in {
+    color: seagreen;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.get-started {
+    color: seagreen;
+    text-decoration: none;
+    margin: 0 5px;
+    border: 1px solid seagreen;
+    padding: 4px 7px;
+    border-radius: 2px;
+}
+
+.nav__lower {
+    width: fit-content;
+    margin: 20px auto;
+}
+
+.top__link {
+    margin: 0 50px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.content {
+    width: fit-content;
+    margin: 0 350px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 35px 0 30px 0;
+}
+
+.main__img {
+    display: block;
+    margin: 0 auto;
+    width: 550px;
+}
+
+
+
+.material-icons-outlined {
+    font-size: 12px;
+}
+
+
+.footer {
+    width:fit-content;
+    margin: 40px auto 20px;
+}
+
+.footer__left {
+    height: 25px;
+    display: inline-block;
+    margin-right: 900px;
+}
+
+.footer__right {
+    display: inline-block;
+}
+
+.about {
+    text-decoration: none;
+    color: black;
+    margin: 0 10px 0;
+}
+
+.help {
+    text-decoration: none;
+    color: black;
+    margin: 0 10px 0;
+}
